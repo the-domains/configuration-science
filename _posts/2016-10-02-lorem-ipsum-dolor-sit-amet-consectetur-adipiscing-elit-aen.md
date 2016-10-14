@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-10-13T22:08:39.347Z'
+datePublished: '2016-10-13T22:08:43.488Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-10-13T22:08:00.748Z'
+dateModified: '2016-10-13T22:08:43.030Z'
 title: ''
 publisher: {}
 description: >-
@@ -16,7 +16,7 @@ description: >-
   efficitur augue. Curabitur lacinia tincidunt est in porta.
 sourcePath: >-
   _posts/2016-10-02-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-aen.md
-starred: false
+starred: true
 _type: Blurb
 
 ---
