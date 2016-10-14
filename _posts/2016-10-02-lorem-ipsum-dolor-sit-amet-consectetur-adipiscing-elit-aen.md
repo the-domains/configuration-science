@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-13T22:35:38.504Z'
+datePublished: '2016-10-13T22:39:27.061Z'
 sourcePath: >-
   _posts/2016-10-02-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-aen.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-10-13T22:35:38.012Z'
+dateModified: '2016-10-13T22:39:26.522Z'
 title: ''
 publisher: {}
 description: >-
@@ -21,4 +21,4 @@ Sensitive to the needs of organisations concerned with mental health care where 
 
 This includes unobtrusive but fine grained access control forward and backward over exchanges and various means of evaluation and invitation of fellow participants in user scoped exchange meetings.
 
-This solution, offered by Configuration Science, will be further detailed here as it develops and functions materialise.
+This solution, offered by Configuration Science, will be further detailed as each functional element materialises.
