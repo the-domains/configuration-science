@@ -1,16 +1,16 @@
-layout_spectrum: 0.042257778629715935
-typography_spectrum: 0.5363762506908083
+layout_spectrum: 0.046298742346963524
+typography_spectrum: 0.3110539740669808
 color:
-  brandStrength: 0.41969387451647827
-  lightness: 0.931930272006107
-  saturation: 0.13247882527188573
-  rhythmicContrast: 0.8502186272228782
+  brandStrength: 0.27648144168760813
+  lightness: 0.8289091079789075
+  saturation: 0.8255365630605322
+  rhythmicContrast: 0.38536118970151145
   brandColors:
-    - '#E1E6FA'
-    - '#C4D7ED'
-    - '#ABC8E2'
-    - '#375D81'
-    - '#183152'
+    - '#FFF8E3'
+    - '#CCCC9F'
+    - '#33332D'
+    - '#9FB4CC'
+    - '#DB4105'
 github: true
 author:
   name: Adam Saltiel
