@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Configuration Science Ltd]]></title>
+        <description><![CDATA[Configuration Science Ltd]]></description>
+        <link>http://configurationscience.co.uk/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 23 Oct 2016 21:55:04 GMT</lastBuildDate>
+        <atom:link href="http://configurationscience.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzKU4uyiwoUSipLEi1VSpJrSjRz0osS4SIKtlxlSUWKaQo2CrkpZYruCSWpGpocqXkJ5fmpuaV6JUXZQIFUvTSU0vcSnNyIlMTizQ0Nbls9CG67QDjoB_N" height="4"></iframe>]]></description>
+            <link>https://the-grid.github.io/ed-userhtml/?g=eJyzKU4uyiwoUSipLEi1VSpJrSjRz0osS4SIKtlxlSUWKaQo2CrkpZYruCSWpGpocqXkJ5fmpuaV6JUXZQIFUvTSU0vcSnNyIlMTizQ0Nbls9CG67QDjoB_N</link>
+            <guid isPermaLink="false">5bcf19ee-57d2-4903-ad87-aa103bfb8395</guid>
+            <pubDate>Sun, 23 Oct 2016 21:55:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
