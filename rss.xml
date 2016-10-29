@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Configuration Science Ltd]]></title>
+        <description><![CDATA[Configuration Science Ltd]]></description>
+        <link>http://configurationscience.co.uk/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 29 Oct 2016 19:29:14 GMT</lastBuildDate>
+        <atom:link href="http://configurationscience.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Developing a solution that is sensitive to the needs of organisations concerned with mental health care Configuration Science specialises in inter and intra communication enablement for multi-disciplinary teams where confidentiality is paramount.</p>]]></description>
+            <link>http://configurationscience.co.uk/developing-a-solution-that-is-sensitive-to-the-needs-of-orga/index.html</link>
+            <guid isPermaLink="false">f563e71f-7b79-40e3-829d-0806aaa68d24</guid>
+            <pubDate>Sat, 29 Oct 2016 19:29:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
